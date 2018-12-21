@@ -1,0 +1,2 @@
+You should already have an understanding and knowledge of JavaScript (ES2015+), as well as HTML5 and CSS3.
+Experience with Vue.js is not required for this book, although experience with other JavaScript frameworks will assist with comparisons and similar features.
