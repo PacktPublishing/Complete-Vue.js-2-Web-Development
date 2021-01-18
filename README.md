@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Complete Vue.js 2 Web Development
 This Learning Path is divided into three sections, with each section bringing you closer to developing high-end modern web applications with Vue.js 2. It starts with building example applications to get well versed with the Vue.js ecosystem. You will learn to use Vue.js by creating three single page applications that explore Vuex and vue-router, the standard Vue tools for caching data and routing URLs for your applications. Going further, the Learning Path will address some of the challenges in designing web applications with Vue.js. 
 
